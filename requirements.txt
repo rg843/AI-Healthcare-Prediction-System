@@ -1,0 +1,25 @@
+# Unpinned requirements for Render deployment (no ==version)
+email-validator
+fastapi
+gunicorn
+joblib
+langchain
+numpy
+opencv-python
+openai
+pandas
+passlib[bcrypt]
+plotly
+pillow
+psycopg2-binary
+python-dotenv
+python-jose[cryptography]
+python-multipart
+pydantic
+scikit-learn
+sqlalchemy
+streamlit
+tensorflow
+tesserocr
+uvicorn[standard]
+xgboost
