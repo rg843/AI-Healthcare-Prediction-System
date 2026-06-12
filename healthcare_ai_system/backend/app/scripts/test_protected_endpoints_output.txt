@@ -1,0 +1,7 @@
+login 200
+/api/patients 200
+[{"name":"Patient One","age":45,"gender":null,"weight":null,"height":null,"blood_group":null,"address":null,"medical_history":null,"family_history":null,"allergies":null,"insurance":null,"id":1}]
+/api/doctors 200
+[{"doctor_id":"DOC1","name":"Dr Sample","qualification":"MD","experience":10,"department":"General","availability":{"monday":"9-17","tuesday":"9-17"},"user_id":2,"id":1}]
+/api/appointments 200
+[]

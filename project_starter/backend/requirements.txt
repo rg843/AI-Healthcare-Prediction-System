@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+pydantic
+python-dotenv
+joblib
+scikit-learn
+xgboost
+pandas
+numpy
