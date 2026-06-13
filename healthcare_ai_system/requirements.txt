@@ -22,5 +22,4 @@ pandas
 numpy
 python-jose[cryptography]
 email-validator
-tensorflow==2.15.0
-numpy==1.26.4
+
