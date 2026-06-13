@@ -9,7 +9,7 @@ python-multipart
 python-dotenv
 joblib
 scikit-learn
-xgboost==1.8.5
+xgboost
 tensorflow
 streamlit
 plotly
